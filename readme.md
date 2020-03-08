@@ -118,4 +118,9 @@ run the following command:
 
 ## Run example
 
-Folder example include the code above in the file main.go.
+Folder example include the code above in the file main.go, to run it execute the following commands:
+
+```
+go get github.com/sebastien6/finite-state-automata
+go run github.com/sebastien6/finite-state-automata/example/main.go
+```
