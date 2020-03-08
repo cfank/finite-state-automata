@@ -118,4 +118,4 @@ run the following command:
 
 ## Run example
 
-go run ```go test github.com/sebastien6/finite-state-automata/app/main.go```
+Folder example include the code above in the file main.go.
